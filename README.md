@@ -11,10 +11,10 @@ Building fast, responsive, and modern web apps with **React**, powered by clean 
 
 ### 🚀 About Me
 I'm a passionate **React Developer** who loves transforming ideas into dynamic web experiences.  
-I focus on writing clean, scalable code using modern frontend tools and frameworks.  
+I focus on writing clean, scalable, and efficient code using modern frontend technologies.  
 
 - 🔭 Currently working on: **E-commerce Storefront** & **Book Store App**  
-- 🌱 Learning: **Next.js** and **Performance Optimization**  
+- 🌱 Learning: **Next.js**, **Data Structures**, and **Algorithms**  
 - 💬 Ask me about: React, Context API, Redux, API integration, and UI Design  
 - 📫 Reach me at: **[hajralhaj346@gmail.com](mailto:hajralhaj346@gmail.com)**  
 - 🧠 Fun fact: I enjoy debugging almost as much as building!
@@ -23,7 +23,7 @@ I focus on writing clean, scalable code using modern frontend tools and framewor
 
 ### 🧰 Skills & Tools
 
-#### ⚛️ Frontend
+#### ⚛️ Frontend Development
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
@@ -32,23 +32,38 @@ I focus on writing clean, scalable code using modern frontend tools and framewor
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 
-#### ⚙️ State & Data
+#### ⚙️ State Management & API
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
 ![Context API](https://img.shields.io/badge/Context_API-61DAFB?style=flat&logo=react&logoColor=white)
 ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat&logo=axios&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-005571?style=flat&logo=api&logoColor=white)
 
-#### 🧩 Tools & Environment
+#### 🧩 Programming & Problem Solving
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Algorithms](https://img.shields.io/badge/Algorithms-FFA500?style=flat&logo=thealgorithms&logoColor=white)
+![Data Structures](https://img.shields.io/badge/Data_Structures-4682B4?style=flat&logo=dependabot&logoColor=white)
+
+#### 🗄️ Database
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+
+#### 🧠 Tools & Environment
 ![Git](https://img.shields.io/badge/Git-E44C30?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visualstudiocode&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=FFD62E)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
 
 ---
 
 ### 🧠 Projects
+
+#### 🛒 E-Commerce Storefront
+A modern and responsive e-commerce app where users can browse, add to cart, and simulate checkout.  
+🧩 Built using **React**, **Bootstrap**, and **LocalStorage API**.  
+🔗 [View Repository](https://github.com/Mohamedeid18/e-commerce)
+
 #### 📚 Book Store App
 Interactive web app for browsing and managing books online.  
 📘 Built using **JavaScript**, **HTML**, **CSS3**, **BootStrap**, and **API**.  
