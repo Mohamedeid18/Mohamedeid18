@@ -52,7 +52,7 @@ I focus on writing clean, scalable code using modern frontend tools and framewor
 #### 📚 Book Store App
 Interactive web app for browsing and managing books online.  
 📘 Built using **JavaScript**, **HTML**, **CSS3**, **BootStrap**, and **API**.  
-🔗 [View Repository]([https://github.com/Mohamedeid18/book-store](https://github.com/Mohamedeid18/Book-Store.git))
+🔗 [View Repository](https://github.com/Mohamedeid18/Book-Store.git)
 
 ---
 
