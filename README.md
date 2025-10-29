@@ -49,16 +49,10 @@ I focus on writing clean, scalable code using modern frontend tools and framewor
 ---
 
 ### 🧠 Projects
-
-#### 🛒 E-Commerce Storefront
-A modern and responsive e-commerce app where users can browse, add to cart, and simulate checkout.  
-🧩 Built with **React**, **Bootstrap**, and **LocalStorage API**.  
-🔗 [View Repository](https://github.com/Mohamedeid18/e-commerce)
-
 #### 📚 Book Store App
 Interactive web app for browsing and managing books online.  
-📘 Built using **React**, **Hooks**, and **Context API**.  
-🔗 [View Repository](https://github.com/Mohamedeid18/book-store)
+📘 Built using **JavaScript**, **HTML**, **CSS3**, **BootStrap**, and **API**.  
+🔗 [View Repository]([https://github.com/Mohamedeid18/book-store](https://github.com/Mohamedeid18/Book-Store.git))
 
 ---
 
