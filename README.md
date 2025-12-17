@@ -71,21 +71,31 @@ Interactive web app for browsing and managing books online.
 
 ---
 
-### 📊 GitHub Analytics
+### 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Mohamedeid18&show_icons=true&theme=react&hide_border=true&count_private=true" width="60%"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Mohamedeid18&show_icons=true&theme=react&hide_border=true&count_private=true&cache_seconds=1800"
+    width="48%"
+  />
 
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=Mohamedeid18&theme=react&hide_border=true" width="60%"/>
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamedeid18&layout=compact&theme=react&hide_border=true" width="45%"/>
+  <img
+    src="https://streak-stats.demolab.com?user=Mohamedeid18&theme=react&hide_border=true&cache_seconds=1800"
+    width="48%"
+  />
 
 </div>
+
+<br/>
+
+<div align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamedeid18&layout=compact&theme=react&hide_border=true&cache_seconds=1800"
+    width="42%"
+  />
+</div>
+
 
 
 
