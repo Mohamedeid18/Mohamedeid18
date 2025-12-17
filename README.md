@@ -85,8 +85,9 @@ Interactive web app for browsing and managing books online.
 
 <div align="center">
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamedeid18&layout=default&theme=react&hide_border=true" width="42%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamedeid18&layout=default&theme=react&hide_border=true&cache_seconds=1800" width="42%"/>
 </div>
+
 
 
 
