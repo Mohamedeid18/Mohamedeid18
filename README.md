@@ -70,9 +70,6 @@ Interactive web app for browsing and managing books online.
 🔗 [View Repository](https://github.com/Mohamedeid18/Book-Store.git)
 
 ---
-
-### 📊 GitHub Stats
-
 ### 📊 GitHub Stats
 
 <div align="center">
